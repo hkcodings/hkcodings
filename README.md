@@ -1,41 +1,38 @@
 # Hi there! 👋 I'm Harish Kumar
 
-**🎯 Full-Stack Developer | SaaS Product Builder | Open Source Enthusiast**
+## About Me
+Certified Software Tester (Udemy 37.5-hour bootcamp) and BSc Computer Science final year student (CGPA: 9.35) with hands-on experience in manual and automation testing. Contributed to GSSoC 2024 by fixing bugs in open-source projects.
 
-Welcome to my GitHub profile! I'm a passionate **full-stack web developer** focused on building robust, scalable, and impactful software solutions. Whether it's working on a personal project, contributing to open-source, or developing SaaS platforms, I'm always up for a new coding challenge!
+## Skills
 
----
+### Manual Testing
+- Functional, Regression, Smoke, Sanity, Integration, System, UAT, Cross-Browser Testing
 
-### 🚀 What I’m Currently Working On:
-- 🌐 Building a **SaaS platform** for HR management and payroll
-- 🤝 Contributing to **npm** packages and improving developer tools
-- 📚 Learning **GraphQL** and **TypeScript** for my upcoming projects
+### API Testing
+- REST APIs (GET, POST, PUT, DELETE)
+- Postman, JSON validation
 
----
+### Automation (Learning)
+- Selenium WebDriver, Cypress (Basic)
 
-### 💻 My Tech Stack:
-- **Languages**: JavaScript, C#, Java, HTML, CSS
-- **Frontend**: React.js, Redux, Next.js, .NET Core, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Version Control**: Git, GitHub
-- **Other Tools**: Docker, VS Code, Postman
+### Programming
+- JavaScript (ES6+), Java, SQL, HTML/CSS
 
----
+### Tools & Methodologies
+- Postman, Chrome DevTools, Git/GitHub
+- Agile, Scrum, SDLC, STLC
 
-### 🌱 What I’m Learning:
-- Advanced **React**,**Next.js** and .NET Core
-- Building scalable **SaaS products**
-- Exploring **GraphQL** & **TypeScript**
+### Documentation
+- Test Case Design, Test Plans, Bug Reports, Test Execution Reports
 
----
+## Projects
+- **REST API Testing with Postman**: Tested CRUD operations, validated responses, generated PDF reports.
+- **Automation Scripts with Selenium/Cypress**: Automated web flows, regression and smoke test cases.
+- **Open-Source Contribution (GSSoC 2024)**: Bug fixes, code improvements.
 
-### 🎯 My Goals:
-- 🌟 Become a **Software Development Engineer (SDE)** at a top-tier tech company
-- 🌍 Launch my own **SaaS products**
-- 💻 Actively contribute to **open-source projects**
+## Currently Learning
+- Advanced Selenium Automation, JIRA, Test Automation Best Practices
 
----
 
 ### 🌐 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/harish-kumar-773aba1b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 🔗
