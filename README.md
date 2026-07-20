@@ -1,94 +1,103 @@
-<h1 align="center">Hi 👋, I'm Harish Kumar</h1>
-<h3 align="center">Java Developer | DSA Enthusiast | Aspiring Software Engineer</h3>
+# Hi 👋, I'm Harish Kumar
+
+### 💻 Java • Data Structures & Algorithms • Full-Stack Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+Developer;Data+Structures+%26+Algorithms;Aspiring+Software+Engineer;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Learning+Java;Mastering+Data+Structures+%26+Algorithms;Building+Full-Stack+Applications;Preparing+for+Product-Based+Companies" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 Computer Science Student
-- ☕ Learning **Java** and **Data Structures & Algorithms**
-- 💻 Solving problems on **LeetCode**
-- 🎯 Goal: Crack **MAANG** and top product-based companies
-- 🌱 Learning something new every day
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/hkcodings">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/harish_kumar1010/">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
-  </a>
-</p>
+* ☕ Currently learning **Java**
+* 📚 Mastering **Data Structures & Algorithms**
+* 🌐 Learning **JavaScript** and **Full-Stack Development**
+* 💻 Solving coding problems on **LeetCode**
+* 🎯 Target: Software Engineer at a top product-based company
 
 ---
 
-## 💻 Languages & Tools
+# 📚 Current Learning Roadmap
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=idea" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkcodings&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hkcodings&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hkcodings&layout=compact&theme=tokyonight)
+```text
+✅ Java Fundamentals
+⬜ JavaScript
+⬜ Data Structures & Algorithms (Java)
+⬜ HTML & CSS
+⬜ React
+⬜ Node.js & Express
+⬜ SQL & MongoDB
+⬜ Spring Boot
+⬜ System Design
+```
 
 ---
 
-## 🧩 LeetCode Stats
+# 💻 Tech Stack
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/harish_kumar1010?theme=dark&font=Baloo&ext=contest)
+### Languages
 
----
+* Java
+* JavaScript (Learning)
+* C
 
-## 🏆 GitHub Trophies
+### Frontend
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hkcodings&theme=tokyonight&row=1&column=6)
+* HTML (Learning)
+* CSS (Learning)
+* JavaScript (Learning)
 
----
+### Backend
 
-## 📈 Contribution Graph
+* Java (Learning)
+* Spring Boot (Learning)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hkcodings&theme=tokyo-night)
+### Databases
 
----
+* MySQL (Learning)
 
-## 🎯 2026 Goals
+### Tools
 
-- ✅ Solve 500+ LeetCode problems
-- ✅ Master Java & DSA
-- ✅ Build impactful projects
-- ✅ Become placement-ready
-- ✅ Get into a top product-based company
-
----
-
-## 💬 Quote
-
-> "Consistency beats talent when talent isn't consistent."
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hkcodings&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+# 📊 Coding Profiles
+
+### 🧩 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/harish_kumar1010?theme=dark\&font=Baloo\&ext=contest)
+
+GitHub statistics will appear automatically as I continue building projects and contributing code.
+
+---
+
+# 🚀 Featured Repositories
+
+📚 Java DSA
+
+🌐 Full Stack Projects
+
+💻 LeetCode Solutions
+
+📝 Notes & Learning
+
+---
+
+# 🎯 2026 Goals
+
+* Solve **500+ LeetCode Problems**
+* Master **Java & DSA**
+* Build **5+ Full-Stack Projects**
+* Learn **Spring Boot**
+* Secure a Software Engineer role at a product-based company
+
+---
+
+# 💬 Quote
+
+> **"Small improvements every day lead to remarkable results."**
